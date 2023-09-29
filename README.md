@@ -3,11 +3,11 @@
 Repo du groupe de Florian, Dorian, Nicolas et Marius.
 
 ## TODO Jour 1
-- [x] Mettre en place un dépôt git distant et si dépôt privé inviter alex@sherpa.one (sherpa1) ---> 1 dépôt unique par groupe
+- [x] Mettre en place un dépôt git distant
 - [x] Ajouter un fichier readme.md et saisir le nom de chaque participant au groupe
 - [x] Recenser l'ensemble des acteurs
 - [x] Qualifier les acteurs : primaires / secondaires
-- [ ] Catégoriser les acteurs : humain, matériel, abstrait
+- [X] Catégoriser les acteurs : humain, matériel, abstrait
 - [ ] Recenser les cas d'utilisation
 - [ ] Identifier les déclencheurs de cas d'utilisation
 - [ ] Identifier les éventuels destinataires ou participants à un cas d'utilisation 
