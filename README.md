@@ -14,7 +14,7 @@ Repo du groupe de Florian, Dorian, Nicolas et Marius.
 - [ ] Identifier les relations entre cas d'utilisation (extend / include / abstraction -> spécialisation)
 - [ ] Réaliser 1 diagramme UML de contexte
 - [ ] Réaliser 1 ou N diagramme(s) UML de cas d'utilisation
-- [ ] Réaliser 1 ou N diagramme(s) UML d'activité
+- [x] Réaliser 1 ou N diagramme(s) UML d'activité
  
 Si N diagrammes, penser à adapter le "focus" de chaque diagramme pour privilégier la lisibilité
 Rappel : on se concentre sur la gestion de l'inventaire. Ce qui est fait dans le cadre des cours devra être ré-appliqué pour le reste du projet
