@@ -12,7 +12,7 @@ Repo du groupe de Florian, Dorian, Nicolas et Marius.
 - [ ] Identifier les déclencheurs de cas d'utilisation
 - [ ] Identifier les éventuels destinataires ou participants à un cas d'utilisation 
 - [ ] Identifier les relations entre cas d'utilisation (extend / include / abstraction -> spécialisation)
-- [ ] Réaliser 1 diagramme UML de contexte
+- [x] Réaliser 1 diagramme UML de contexte
 - [ ] Réaliser 1 ou N diagramme(s) UML de cas d'utilisation
 - [x] Réaliser 1 ou N diagramme(s) UML d'activité
  
